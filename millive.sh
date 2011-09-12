@@ -20,4 +20,4 @@ lb config --bootappend-live "locale=es_CO.UTF-8 keyb=es"
 #lb config --bootappend-live "username=pupilo"
 lb config --tasks "spanish spanish-desktop spanish-gnome-desktop"
 lb config --debian-installer false
-#lb build
+lb build
