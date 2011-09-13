@@ -11,7 +11,7 @@ rm includes -rdf
 rm templates -rdf
 cd ..
 rm chroot -rdf
-rm cache -rdf
+rm cache/stages_bootstrap -rdf
 rm binary.packages -rdf
 rm binary.list -rdf
 rm binary -rdf
