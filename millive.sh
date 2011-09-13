@@ -18,6 +18,7 @@ lb config --mirror-binary http://ftp.us.debian.org/debian/
 lb config --bootappend-live "locale=es_CO.UTF-8 keyb=es"
 #Aunque funciona cuando uno le pone el username con otro nombre, los datos quedan en un usuario user
 #lb config --bootappend-live "username=pupilo"
-lb config --tasks "spanish spanish-desktop spanish-gnome-desktop"
+#This tasks make the cd doesn't be created
+#lb config --tasks "spanish spanish-desktop spanish-gnome-desktop"
 lb config --debian-installer false
 lb build
