@@ -4,3 +4,4 @@ iceweasel iceweasel-l10n-es-es epiphany-browser
 ssh less flashplugin-nonfree 
 gimp network-manager-gnome gnome-alsamixer gcalctool 
 libgl1-mesa-dev libglu1-mesa-dev libgsl0ldbl libfftw3-3 libgvc5
+lvm2 gdm3 gparted
