@@ -1,4 +1,5 @@
 #!/bin/sh
+./whzclean.sh
 lb clean --binary
 lb config -b iso -d wheezy --archive-areas "main contrib non-free" -a amd64
 lb config --packages-lists gnome-core 
