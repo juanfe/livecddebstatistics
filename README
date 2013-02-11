@@ -1,0 +1,14 @@
+In squeeze run:
+$ sudo milcd.sh
+
+or
+
+$ sudo millive.sh
+
+or
+
+$ sudo hacklive.sh
+
+In Wheezy run:
+
+$ sudo lisowheezy.sh
