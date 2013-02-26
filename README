@@ -12,3 +12,5 @@ $ sudo hacklive.sh
 In Wheezy run:
 
 $ sudo lisowheezy.sh
+
+The list of package to install in Wheezy are in: config/package-lists/packages-wheezy-amd64.list.chroot
